@@ -1,0 +1,59 @@
+卷 娱乐 的文件夹 PATH 列表
+卷序列号为 00000200 D824:3335
+F:.
+│  ginger.py
+│  Pipfile
+│  Pipfile.lock
+│  read
+│  
+├─.idea
+│  │  flask-api.iml
+│  │  misc.xml
+│  │  modules.xml
+│  │  workspace.xml
+│  │  
+│  └─dictionaries
+│          Administrator.xml
+│          
+└─app
+    │  app.py
+    │  __init__.py
+    │  
+    ├─api
+    │  │  __init__.py
+    │  │  
+    │  ├─v1
+    │  │  │  book.py
+    │  │  │  client.py
+    │  │  │  user.py
+    │  │  │  __init__.py
+    │  │  │  
+    │  │  └─__pycache__
+    │  │          book.cpython-35.pyc
+    │  │          user.cpython-35.pyc
+    │  │          __init__.cpython-35.pyc
+    │  │          
+    │  └─__pycache__
+    │          __init__.cpython-35.pyc
+    │          
+    ├─config
+    │  │  secure.py
+    │  │  setting.py
+    │  │  
+    │  └─__pycache__
+    │          secure.cpython-35.pyc
+    │          setting.cpython-35.pyc
+    │          
+    ├─libs
+    │  │  enums.py
+    │  │  redprint.py
+    │  │  __init__.py
+    │  │  
+    │  └─__pycache__
+    │          redprint.cpython-35.pyc
+    │          __init__.cpython-35.pyc
+    │          
+    └─__pycache__
+            app.cpython-35.pyc
+            __init__.cpython-35.pyc
+            
